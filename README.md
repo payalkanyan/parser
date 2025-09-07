@@ -12,8 +12,8 @@ The HiLabs Roster Parser is a healthcare provider information extraction system 
 
 ## NER usage in this project
 
-![NER USAGE](./img2.jpeg)
-![NER USAGE](./process_ner.jpeg)
+![NER USAGE](./img.jpeg)
+![NER USAGE](./process.jpeg)
 
 ### Key Capabilities
 - **Multi-format Email Processing**: Handles .eml files with HTML/text content and various attachments
