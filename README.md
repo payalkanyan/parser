@@ -63,7 +63,7 @@ The HiLabs Roster Parser is a healthcare provider information extraction system 
 2. **Create Virtual Environment**
    ```bash
    # Create virtual environment
-   python -m venv venv
+   python3 -m venv venv
    
    # Activate virtual environment
    # On Windows:
@@ -108,7 +108,7 @@ Process multiple EML files efficiently with parallel processing:
 python -m src.cli batch --eml-dir ./tests --out-dir ./outputs --workers 4
 
 # Custom worker count based on your CPU cores
-python -m src.cli batch --eml-dir ./emails --out-dir ./results --workers 8
+python -m src.cli batch --eml-dir ./tests --out-dir ./results --workers 8
 
 # Example output with TAT analysis
 # Processing 15 files with 4 workers...
