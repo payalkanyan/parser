@@ -1,4 +1,6 @@
 # HiLabs Roster Parser
+
+**Repository**: https://github.com/payalkanyan/parser
 The HiLabs Roster Parser is a healthcare provider information extraction system designed to process email files (.eml) and generate structured Excel output for roster management. Built with a **hybrid deterministic + ML approach**, it combines pattern-based extraction with **Named Entity Recognition (NER)** to achieve high accuracy in healthcare data processing.
 
 ⚠️ Note: This project does not rely on large language models (LLMs). In healthcare, processes must be transparent and reproducible, but LLM outputs are often difficult to explain or validate. Our approach uses a combination of deterministic rules and lightweight ML, which runs efficiently on local machines, delivers consistent and reliable results, and can be readily extended to production use cases in regulated environments.
@@ -53,13 +55,13 @@ The HiLabs Roster Parser is a healthcare provider information extraction system 
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd hilabs-roster-parser
+   git clone https://github.com/payalkanyan/parser.git
+   cd parser
    ```
 
-2. **Create Virtual Environment** (Recommended)
+2. **Create Virtual Environment**
    ```bash
-   # Using venv
+   # Create virtual environment
    python -m venv venv
    
    # Activate virtual environment
@@ -69,37 +71,20 @@ The HiLabs Roster Parser is a healthcare provider information extraction system 
    source venv/bin/activate
    ```
 
-3. **Install Required Packages**
+3. **Install Dependencies**
    ```bash
-   # Core dependencies
-   pip install spacy beautifulsoup4 pandas openpyxl pdfplumber python-docx pillow
-   pip install dateutil pyyaml rapidfuzz dataclasses-json
+   # Install all required packages
+   pip install -r requirements.txt
    
-   # Install spaCy language model
+   # Install spaCy language models
    python -m spacy download en_core_web_sm
-   
-   # Optional: For better accuracy (larger model)
    python -m spacy download en_core_web_trf
    ```
 
 4. **Verify Installation**
    ```bash
-   python -c "import spacy; print('spaCy installed successfully')"
    python -c "from src.cli import RosterParserCLI; print('Parser ready')"
    ```
-
-### Optional Dependencies
-
-For enhanced OCR capabilities:
-```bash
-pip install pytesseract
-# Also install tesseract-ocr system package
-```
-
-For development:
-```bash
-pip install pytest black flake8 mypy
-```
 
 
 ## Single Run Code

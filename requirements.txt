@@ -11,7 +11,7 @@ spacy>=3.4.0
 
 # PDF processing (optional)
 pdfplumber>=0.6.0
-# camelot-py>=0.10.0  # Optional for better table extraction
+# camelot-addpy>=0.10.0  # Optional for better table extraction
 
 # Document processing (optional)
 python-docx>=0.8.0
