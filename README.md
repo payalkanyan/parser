@@ -109,9 +109,6 @@ Process a single EML file with the parser:
 # Basic usage
 python -m src.cli parse --eml ./tests/Sample-1.eml --out ./output/result.xlsx
 
-# With custom template
-python -m src.cli parse --eml ./email.eml --out ./result.xlsx
-
 # Example output
 # ✓ Processed Sample-1.eml -> result.xlsx (0.82s)
 ```
@@ -131,32 +128,6 @@ python -m src.cli batch --eml-dir ./emails --out-dir ./results --workers 8
 # Processing 15 files with 4 workers...
 # ✓ Sample-1.eml -> Sample-1_output.xlsx (0.75s)
 # ✓ Sample-2.eml -> Sample-2_output.xlsx (0.91s)
-# ...
-# ============================================================
-# BATCH PROCESSING COMPLETE
-# ============================================================
-# Files Processed: 15/16 (93.8% success rate)
-# Total Batch Time: 12.34s
-#
-# TAT ANALYSIS:
-#   Average time per file: 0.82s
-#   Throughput: 73.2 files/minute
-#   Performance: Fast (< 0.5s/file)
-#
-#   Stage Breakdown:
-#     mime_parsing: 0.156s avg (16 calls)
-#     extraction: 0.487s avg (16 calls)
-#     export: 0.178s avg (16 calls)
-#
-# FIELD SUCCESS ANALYSIS:
-#   Overall field success rate: 78.2%
-#   Problem fields (3):
-#     - Provider Specialty: 45.2% (7/16)
-#     - Fax Number: 31.2% (5/16)
-#   Top performing fields:
-#     + Provider Name: 93.8%
-#     + Provider NPI: 87.5%
-# ============================================================
 ```
 
 ## Pipeline Description
