@@ -1,0 +1,40 @@
+Content-Type: multipart/alternative;
+ boundary="===============3678566631655500743=="
+MIME-Version: 1.0
+Subject: Roster Changes - ValleyCare
+From: updates@valleycare.org
+To: networkops@healthplans.com
+
+--===============3678566631655500743==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Team,
+
+We have a few updates: Dr. Sophia Lee is joining ValleyCare starting September. 
+Meanwhile, Dr. James Patel is leaving us at the end of October. 
+Finally, Dr. Carlos Rivera has added Commercial plans to his practice.
+
+Thanks,
+ValleyCare Network
+--===============3678566631655500743==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+        <html>
+          <body>
+            <p>Dear Team,</p>
+            <p>We have a few updates:</p>
+            <ul>
+              <li><b>Dr. Sophia Lee</b> is joining ValleyCare starting <b>September</b>.</li>
+              <li><b>Dr. James Patel</b> is leaving us at the end of <b>October</b>.</li>
+              <li><b>Dr. Carlos Rivera</b> has added <b>Commercial</b> plans to his practice.</li>
+            </ul>
+            <p>Thanks,<br/>ValleyCare Network</p>
+          </body>
+        </html>
+        
+--===============3678566631655500743==--

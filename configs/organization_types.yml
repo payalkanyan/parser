@@ -1,0 +1,39 @@
+# Organization Types Configuration
+# Maps organization type variations to canonical names
+
+organization_types:
+  "Medical Group":
+    synonyms:
+      - "medical group"
+      - "physician group"
+      - "doctors group"
+      - "medical associates"
+      - "physicians associates"
+
+  "Healthcare System":
+    synonyms:
+      - "healthcare system"
+      - "health system"
+      - "healthcare"
+      - "medical center"
+      - "hospital system"
+
+  "Clinic":
+    synonyms:
+      - "clinic"
+      - "medical clinic"
+      - "health clinic"
+      - "outpatient clinic"
+
+  "Hospital":
+    synonyms:
+      - "hospital"
+      - "medical center"
+      - "regional medical center"
+      - "community hospital"
+
+  "Practice":
+    synonyms:
+      - "practice"
+      - "medical practice"
+      - "professional practice"

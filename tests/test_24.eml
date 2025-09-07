@@ -1,0 +1,43 @@
+Content-Type: multipart/alternative;
+ boundary="===============6973364819718938102=="
+MIME-Version: 1.0
+Subject: Provider Terminations - Westside Medical Group
+From: networkops@westside.com
+To: providerrelations@healthplans.com
+
+--===============6973364819718938102==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Please process the termination for the following providers effective 06/30/2026.
+
+1. Dr. Kevin Moore | NPI: 4455667788 | Specialty: Neurology | Term Reason: Retired
+2. Dr. Emily Carter | NPI: 5566778899 | Specialty: Internal Medicine | Term Reason: Contract Ended
+3. Dr. Ryan Kim | NPI: 6677889900 | Specialty: Orthopedics | Term Reason: License Expired
+
+Regards,
+Network Ops
+--===============6973364819718938102==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+        <html>
+          <body>
+            <p>Hello Team,</p>
+            <p>Please process the termination for the following providers effective <b>06/30/2026</b>.</p>
+            <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+              <tr><th>Provider</th><th>NPI</th><th>Specialty</th><th>Termination Reason</th></tr>
+              <tr><td>Dr. Kevin Moore</td><td>4455667788</td><td>Neurology</td><td>Retired</td></tr>
+              <tr><td>Dr. Emily Carter</td><td>5566778899</td><td>Internal Medicine</td><td>Contract Ended</td></tr>
+              <tr><td>Dr. Ryan Kim</td><td>6677889900</td><td>Orthopedics</td><td>License Expired</td></tr>
+            </table>
+            <p>Regards,<br/>Network Ops</p>
+          </body>
+        </html>
+        
+--===============6973364819718938102==--

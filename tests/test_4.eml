@@ -1,0 +1,43 @@
+Content-Type: multipart/alternative;
+ boundary="===============8101411244981381549=="
+MIME-Version: 1.0
+Subject: Test Email 14
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============8101411244981381549==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Please process the termination below:
+
+Provider Termination:
+Name: Dr. Hannah Lee
+NPI: 2233445566
+Specialty: Family Medicine
+Termination Date: 01/15/2026
+Reason: Relocated practice
+
+Regards,
+Network Operations
+--===============8101411244981381549==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+        <p>Hi,</p>
+        <p>Please process the termination below:</p>
+        <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+          <tr><td><b>Name</b></td><td>Dr. Hannah Lee</td></tr>
+          <tr><td><b>NPI</b></td><td>2233445566</td></tr>
+          <tr><td><b>Specialty</b></td><td>Family Medicine</td></tr>
+          <tr><td><b>Termination Date</b></td><td>01/15/2026</td></tr>
+          <tr><td><b>Reason</b></td><td>Relocated practice</td></tr>
+        </table>
+        <p>Regards,<br>Network Operations</p>
+        </body></html>
+--===============8101411244981381549==--

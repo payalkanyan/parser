@@ -1,0 +1,48 @@
+Content-Type: multipart/alternative;
+ boundary="===============6212715716519813241=="
+MIME-Version: 1.0
+Subject: Provider Addition Request - Dr. Olivia Grant
+From: credentialing@summithealth.com
+To: networkops@healthplans.com
+
+--===============6212715716519813241==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Please add the following provider to the roster effective 03/10/2026.
+
+Details below:
+
+Name: Dr. Olivia Grant | NPI: 4455667788 | Specialty: Dermatology | License: D99876
+Organization: Summit Health | TIN: 556677889 | Group NPI: 1122993344 | Address: 400 Pine Street, Seattle, WA 98101
+Phone: 206-555-9823 | Fax: 206-555-2345 | PPG ID: P203 | LOB: Commercial
+
+Regards,
+Credentialing
+--===============6212715716519813241==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+        <html>
+          <body>
+            <p>Hello Team,</p>
+            <p>Please add the following provider to the roster effective <b>03/10/2026</b>.</p>
+            <p>Details below:</p>
+            <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+              <tr><td><b>Name</b></td><td>Dr. Olivia Grant</td><td><b>NPI</b></td><td>4455667788</td></tr>
+              <tr><td><b>Specialty</b></td><td>Dermatology</td><td><b>License</b></td><td>D99876</td></tr>
+              <tr><td><b>Organization</b></td><td>Summit Health</td><td><b>TIN</b></td><td>556677889</td></tr>
+              <tr><td><b>Group NPI</b></td><td>1122993344</td><td><b>Address</b></td><td>400 Pine Street, Seattle, WA 98101</td></tr>
+              <tr><td><b>Phone</b></td><td>206-555-9823</td><td><b>Fax</b></td><td>206-555-2345</td></tr>
+              <tr><td><b>PPG ID</b></td><td>P203</td><td><b>LOB</b></td><td>Commercial</td></tr>
+            </table>
+            <p>Regards,<br/>Credentialing</p>
+          </body>
+        </html>
+        
+--===============6212715716519813241==--

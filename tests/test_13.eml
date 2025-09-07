@@ -1,0 +1,25 @@
+Content-Type: multipart/alternative;
+ boundary="===============7453968354723625327=="
+MIME-Version: 1.0
+Subject: Test Email 6
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============7453968354723625327==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Team,
+
+Dr. Emily Johnson will no longer be practicing with us after 09/30/2025. She is leaving due to retirement. Please update the roster accordingly.
+
+Regards,
+Network Management
+--===============7453968354723625327==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Team,</p><p><b>Dr. Emily Johnson</b> will no longer be practicing with us after <b>09/30/2025</b>. She is leaving due to <b>retirement</b>. Please update the roster accordingly.</p><p>Regards,<br>Network Management</p></body></html>
+--===============7453968354723625327==--

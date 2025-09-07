@@ -1,0 +1,61 @@
+Received: from MW3PR15MB3754.namprd15.prod.outlook.com (2603:10b6:303:48::18)
+ by PH3PPF362B23CA1.namprd15.prod.outlook.com with HTTPS; Tue, 2 Sep 2025 10:24:12 +0000
+From: Test User <test@provider.com>
+To: Network Ops <ops@health.com>
+Subject: Provider Termination Notice
+Thread-Topic: Provider Termination Notice
+Thread-Index: AdwbSDgx9DHnLVuLROKFqH0StqiKCQ==
+Date: Tue, 2 Sep 2025 10:24:12 +0000
+Message-ID: <test2@provider.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+Content-Type: multipart/alternative; boundary="_boundary_2"
+MIME-Version: 1.0
+
+--_boundary_2
+Content-Type: text/plain; charset="us-ascii"
+
+Please terminate the following provider:
+
+Transaction Type: Term
+Transaction Attribute: Not Applicable
+Term Date: 07/01/2025
+Term Reason: Provider is retired
+
+Provider Name: Dr. Sarah K. Nolan
+Provider NPI: 1748392019
+Provider Specialty: Pediatrics
+State License: T89211
+Organization Name: Central Health Partners
+TIN: 987654321
+Group NPI: 1763948201
+Complete Address: 45 Oak Avenue, Denver, CO 80204
+Phone Number: (303) 555-7193
+Fax Number: (303) 555-7194
+PPG ID: 569
+Line of Business: Medicaid
+
+--_boundary_2
+Content-Type: text/html; charset="us-ascii"
+
+<html><body style="font-family:Arial,sans-serif;font-size:14px;color:#333;">
+        <p>Dear Team,</p>
+        <p>Please <b>TERMINATE</b> the following provider effective <b>07/01/2025</b>. Reason: <i>Provider is retired</i>.</p>
+        <table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse;">
+          <tr><th>Provider Name</th><td>Dr. Sarah K. Nolan</td></tr>
+          <tr><th>Provider NPI</th><td>1748392019</td></tr>
+          <tr><th>Specialty</th><td>Pediatrics</td></tr>
+          <tr><th>State License</th><td>T89211</td></tr>
+          <tr><th>Organization</th><td>Central Health Partners</td></tr>
+          <tr><th>TIN</th><td>987654321</td></tr>
+          <tr><th>Group NPI</th><td>1763948201</td></tr>
+          <tr><th>Address</th><td>45 Oak Avenue, Denver, CO 80204</td></tr>
+          <tr><th>Phone</th><td>(303) 555-7193</td></tr>
+          <tr><th>Fax</th><td>(303) 555-7194</td></tr>
+          <tr><th>PPG ID</th><td>569</td></tr>
+          <tr><th>Line of Business</th><td>Medicaid</td></tr>
+        </table>
+        <p>Sincerely,<br/>Network Ops</p>
+        </body></html>
+
+--_boundary_2--

@@ -1,0 +1,25 @@
+Content-Type: multipart/alternative;
+ boundary="===============0036186671444366308=="
+MIME-Version: 1.0
+Subject: Test Email 5
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============0036186671444366308==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Please update our records: Dr. Michael Chen has shifted his practice address to 560 Pine Avenue, Denver, CO 80203. His NPI remains 1293847560 and specialty is Cardiology. Effective date for this change is 08/15/2025.
+
+Thanks,
+Provider Relations
+--===============0036186671444366308==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Hi,</p><p>Please update our records: <b>Dr. Michael Chen</b> has shifted his practice address to <b>560 Pine Avenue, Denver, CO 80203</b>. His NPI remains <b>1293847560</b> and specialty is <b>Cardiology</b>. Effective date for this change is <b>08/15/2025</b>.</p><p>Thanks,<br>Provider Relations</p></body></html>
+--===============0036186671444366308==--

@@ -1,0 +1,62 @@
+Received: from MW3PR15MB3754.namprd15.prod.outlook.com (2603:10b6:303:48::18)
+ by PH3PPF362B23CA1.namprd15.prod.outlook.com with HTTPS; Tue, 2 Sep 2025 10:24:12 +0000
+From: Test User <test@provider.com>
+To: Network Ops <ops@health.com>
+Subject: Provider Address Update
+Thread-Topic: Provider Address Update
+Thread-Index: AdwbSDgx9DHnLVuLROKFqH0StqiKCQ==
+Date: Tue, 2 Sep 2025 10:24:12 +0000
+Message-ID: <test3@provider.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+Content-Type: multipart/alternative; boundary="_boundary_3"
+MIME-Version: 1.0
+
+--_boundary_3
+Content-Type: text/plain; charset="us-ascii"
+
+Please update the address for the following provider:
+
+Transaction Type: Update
+Transaction Attribute: Address
+Effective Date: 08/10/2025
+
+Provider Name: Dr. Michael Tan
+Provider NPI: 1827364590
+Provider Specialty: Cardiology
+State License: H90821
+Organization Name: HeartCare Associates
+TIN: 555112233
+Group NPI: 1928374650
+Old Address: 100 Pine St, San Francisco, CA 94111
+New Address: 250 Market St, San Francisco, CA 94105
+Phone Number: (415) 555-9921
+Fax Number: (415) 555-9922
+PPG ID: 1104
+Line of Business: Commercial
+
+--_boundary_3
+Content-Type: text/html; charset="us-ascii"
+
+<html><body style="font-family:Arial,sans-serif;font-size:14px;color:#333;">
+        <p>Dear Team,</p>
+        <p>Please <b>UPDATE</b> the address for the following provider effective <b>08/10/2025</b>:</p>
+        <table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse;">
+          <tr><th>Provider Name</th><td>Dr. Michael Tan</td></tr>
+          <tr><th>Provider NPI</th><td>1827364590</td></tr>
+          <tr><th>Specialty</th><td>Cardiology</td></tr>
+          <tr><th>State License</th><td>H90821</td></tr>
+          <tr><th>Organization</th><td>HeartCare Associates</td></tr>
+          <tr><th>TIN</th><td>555112233</td></tr>
+          <tr><th>Group NPI</th><td>1928374650</td></tr>
+          <tr><th>Old Address</th><td>100 Pine St, San Francisco, CA 94111</td></tr>
+          <tr><th>New Address</th><td>250 Market St, San Francisco, CA 94105</td></tr>
+          <tr><th>Phone</th><td>(415) 555-9921</td></tr>
+          <tr><th>Fax</th><td>(415) 555-9922</td></tr>
+          <tr><th>PPG ID</th><td>1104</td></tr>
+          <tr><th>Line of Business</th><td>Commercial</td></tr>
+        </table>
+        <p>Thank you,<br/>Network Ops</p>
+        </body></html>
+
+--_boundary_3--

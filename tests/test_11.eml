@@ -1,0 +1,25 @@
+Content-Type: multipart/alternative;
+ boundary="===============7412687518391096019=="
+MIME-Version: 1.0
+Subject: Test Email 4
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============7412687518391096019==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello Team,
+
+Please note that Dr. Sophia Patel will be joining our network effective 07/01/2025. She specializes in Pediatrics and is licensed under CA License P56732. Her NPI is 1478596321, and she will be affiliated with Riverside Health (TIN: 908172634). The primary location will be 200 Oak Street, Los Angeles, CA 90012.
+
+Best,
+Network Operations
+--===============7412687518391096019==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Hello Team,</p><p>Please note that Dr. Sophia Patel will be joining our network effective <b>07/01/2025</b>. She specializes in <b>Pediatrics</b> and is licensed under <b>CA License P56732</b>. Her NPI is <b>1478596321</b>, and she will be affiliated with <b>Riverside Health (TIN: 908172634)</b>. The primary location will be <b>200 Oak Street, Los Angeles, CA 90012</b>.</p><p>Best,<br>Network Operations</p></body></html>
+--===============7412687518391096019==--

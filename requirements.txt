@@ -1,0 +1,27 @@
+# Core dependencies
+pandas>=1.3.0
+openpyxl>=3.0.0
+beautifulsoup4>=4.9.0
+rapidfuzz>=2.0.0
+
+# Optional ML dependencies
+spacy>=3.4.0
+# For spaCy models: python -m spacy download en_core_web_sm
+# For transformer model: python -m spacy download en_core_web_trf
+
+# PDF processing (optional)
+pdfplumber>=0.6.0
+# camelot-py>=0.10.0  # Optional for better table extraction
+
+# Document processing (optional)
+python-docx>=0.8.0
+
+# OCR (optional)
+# pytesseract>=0.3.0
+# Pillow>=8.0.0
+
+# Configuration
+PyYAML>=5.4.0
+
+# Logging and utilities
+tqdm>=4.60.0

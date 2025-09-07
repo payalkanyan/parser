@@ -1,0 +1,39 @@
+Content-Type: multipart/alternative;
+ boundary="===============6655741338593638830=="
+MIME-Version: 1.0
+Subject: Test Email 13
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============6655741338593638830==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Team,
+
+The following specialist has joined our network.
+
+Provider: Dr. Robert King
+NPI: 1122334455
+Specialty: Cardiology
+Group: NorthStar Medical (TIN: 223344556)
+Effective: 12/01/2025
+
+Regards,
+Contracting
+--===============6655741338593638830==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+        <p>Team,</p>
+        <p>The following specialist has joined our network.</p>
+        <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+          <tr><th>Provider</th><th>NPI</th><th>Specialty</th><th>Group</th><th>Effective</th></tr>
+          <tr><td>Dr. Robert King</td><td>1122334455</td><td>Cardiology</td><td>NorthStar Medical (TIN: 223344556)</td><td>12/01/2025</td></tr>
+        </table>
+        <p>Regards,<br>Contracting</p>
+        </body></html>
+--===============6655741338593638830==--

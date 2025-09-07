@@ -1,0 +1,48 @@
+Content-Type: multipart/alternative;
+ boundary="===============0529000559236885503=="
+MIME-Version: 1.0
+Subject: Provider Termination Request - Dr. Henry Adams
+From: networkops@westside.com
+To: providerrelations@healthplans.com
+
+--===============0529000559236885503==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+Please process the termination request below effective 05/20/2026.
+
+Details:
+
+Provider: Dr. Henry Adams | NPI: 9988776655 | Specialty: Orthopedics | License: O77654
+Organization: Westside Medical Group | TIN: 443322110 | Group NPI: 6677889900 | Term Date: 05/20/2026
+Reason: Contract Ended | Address: 150 Market Street, Portland, OR 97205 | Phone: 503-555-1298 | LOB: Medicare
+
+Thanks,
+Network Ops
+--===============0529000559236885503==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+        <html>
+          <body>
+            <p>Hi Team,</p>
+            <p>Please process the termination request below effective <b>05/20/2026</b>.</p>
+            <p>Details:</p>
+            <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+              <tr><td><b>Provider</b></td><td>Dr. Henry Adams</td><td><b>NPI</b></td><td>9988776655</td></tr>
+              <tr><td><b>Specialty</b></td><td>Orthopedics</td><td><b>License</b></td><td>O77654</td></tr>
+              <tr><td><b>Organization</b></td><td>Westside Medical Group</td><td><b>TIN</b></td><td>443322110</td></tr>
+              <tr><td><b>Group NPI</b></td><td>6677889900</td><td><b>Term Date</b></td><td>05/20/2026</td></tr>
+              <tr><td><b>Reason</b></td><td>Contract Ended</td><td><b>Address</b></td><td>150 Market Street, Portland, OR 97205</td></tr>
+              <tr><td><b>Phone</b></td><td>503-555-1298</td><td><b>LOB</b></td><td>Medicare</td></tr>
+            </table>
+            <p>Thanks,<br/>Network Ops</p>
+          </body>
+        </html>
+        
+--===============0529000559236885503==--

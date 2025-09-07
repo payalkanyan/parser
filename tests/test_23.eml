@@ -1,0 +1,42 @@
+Content-Type: multipart/alternative;
+ boundary="===============7631142892273595195=="
+MIME-Version: 1.0
+Subject: Provider Additions - Summit Health
+From: credentialing@summithealth.com
+To: networkops@healthplans.com
+
+--===============7631142892273595195==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+Please add the following providers effective 04/12/2026.
+
+Provider 1: Dr. Laura Stevens | NPI: 2233445566 | Specialty: Pediatrics | License: P88991 | Org: Summit Health
+Provider 2: Dr. Mark Jensen | NPI: 3344556677 | Specialty: Cardiology | License: C77882 | Org: Summit Health
+
+Thanks,
+Credentialing
+--===============7631142892273595195==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+
+        <html>
+          <body>
+            <p>Hi Team,</p>
+            <p>Please add the following providers effective <b>04/12/2026</b>.</p>
+            <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+              <tr><th>Provider</th><th>NPI</th><th>Specialty</th><th>License</th></tr>
+              <tr><td>Dr. Laura Stevens</td><td>2233445566</td><td>Pediatrics</td><td>P88991</td></tr>
+              <tr><td>Dr. Mark Jensen</td><td>3344556677</td><td>Cardiology</td><td>C77882</td></tr>
+            </table>
+            <p>Org: Summit Health</p>
+            <p>Thanks,<br/>Credentialing</p>
+          </body>
+        </html>
+        
+--===============7631142892273595195==--

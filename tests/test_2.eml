@@ -1,0 +1,41 @@
+Content-Type: multipart/alternative;
+ boundary="===============0496741376464737927=="
+MIME-Version: 1.0
+Subject: Test Email 12
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============0496741376464737927==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+We are requesting an update for the following provider.
+
+Provider Information:
+- Name: Dr. Laura Mitchell
+- NPI: 1982736450
+- Address Change: 742 Elm Street, Chicago, IL 60610
+- Effective Date: 11/01/2025
+
+Thanks,
+Provider Relations
+--===============0496741376464737927==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+        <p>Hello,</p>
+        <p>We are requesting an update for the following provider.</p>
+        <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+          <tr><td><b>Name</b></td><td>Dr. Laura Mitchell</td></tr>
+          <tr><td><b>NPI</b></td><td>1982736450</td></tr>
+          <tr><td><b>Address Change</b></td><td>742 Elm Street, Chicago, IL 60610</td></tr>
+          <tr><td><b>Effective Date</b></td><td>11/01/2025</td></tr>
+        </table>
+        <p>Thanks,<br>Provider Relations</p>
+        </body></html>
+--===============0496741376464737927==--

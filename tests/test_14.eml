@@ -1,0 +1,25 @@
+Content-Type: multipart/alternative;
+ boundary="===============7762822311706345805=="
+MIME-Version: 1.0
+Subject: Test Email 7
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============7762822311706345805==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+This is to notify that Dr. David Lee has joined Summit Medical Group. Start date: 10/10/2025. He will be working in Family Medicine at the Newark, NJ office.
+
+Best,
+Onboarding Team
+--===============7762822311706345805==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Hello,</p><p>This is to notify that <b>Dr. David Lee</b> has joined <b>Summit Medical Group</b>. Start date: <b>10/10/2025</b>. He will be working in <b>Family Medicine</b> at the <b>Newark, NJ office</b>.</p><p>Best,<br>Onboarding Team</p></body></html>
+--===============7762822311706345805==--

@@ -1,0 +1,63 @@
+Received: from MW3PR15MB3754.namprd15.prod.outlook.com (2603:10b6:303:48::18)
+ by PH3PPF362B23CA1.namprd15.prod.outlook.com with HTTPS; Tue, 2 Sep 2025 10:24:12 +0000
+From: Test User <test@provider.com>
+To: Network Ops <ops@health.com>
+Subject: Provider Addition Request
+Thread-Topic: Provider Addition Request
+Thread-Index: AdwbSDgx9DHnLVuLROKFqH0StqiKCQ==
+Date: Tue, 2 Sep 2025 10:24:12 +0000
+Message-ID: <test1@provider.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+Content-Type: multipart/alternative; boundary="_boundary_1"
+MIME-Version: 1.0
+
+--_boundary_1
+Content-Type: text/plain; charset="us-ascii"
+
+Please add the following provider to our roster:
+
+Transaction Type: Add
+Transaction Attribute: Not Applicable
+Effective Date: 06/25/2025
+
+Provider Name: Dr. John A. Doe
+Provider NPI: 1638549275
+Provider Specialty: Internal Medicine
+State License: G68269
+Organization Name: UCSD Health
+TIN: 649264027
+Group NPI: 1794739829
+Complete Address: 123 Main Street, Atlanta, GA 63929
+Phone Number: (268) 556-2965
+Fax Number: (284) 558-2945
+PPG ID: P04
+Line of Business: Medicare, Commercial
+
+Thank you,
+Network Ops
+
+--_boundary_1
+Content-Type: text/html; charset="us-ascii"
+
+<html><body style="font-family:Arial,sans-serif;font-size:14px;color:#333;">
+        <p>Dear Team,</p>
+        <p>Please <b>ADD</b> the following provider to our roster effective <b>06/25/2025</b>:</p>
+        <table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse;">
+          <tr><th>Provider Name</th><td>Dr. John A. Doe</td></tr>
+          <tr><th>Provider NPI</th><td>1638549275</td></tr>
+          <tr><th>Specialty</th><td>Internal Medicine</td></tr>
+          <tr><th>State License</th><td>G68269</td></tr>
+          <tr><th>Organization</th><td>UCSD Health</td></tr>
+          <tr><th>TIN</th><td>649264027</td></tr>
+          <tr><th>Group NPI</th><td>1794739829</td></tr>
+          <tr><th>Address</th><td>123 Main Street, Atlanta, GA 63929</td></tr>
+          <tr><th>Phone</th><td>(268) 556-2965</td></tr>
+          <tr><th>Fax</th><td>(284) 558-2945</td></tr>
+          <tr><th>PPG ID</th><td>P04</td></tr>
+          <tr><th>Line of Business</th><td>Medicare, Commercial</td></tr>
+        </table>
+        <p>Thank you,<br/>Network Ops</p>
+        </body></html>
+
+--_boundary_1--

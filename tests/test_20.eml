@@ -1,0 +1,29 @@
+Content-Type: multipart/alternative;
+ boundary="===============0996646846452049516=="
+MIME-Version: 1.0
+Subject: Test Email 20
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============0996646846452049516==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Our office in San Francisco has a new pediatrician starting August. Please ensure the roster is up to date.
+
+Regards,
+Practice Admin
+--===============0996646846452049516==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+        <p>Hello,</p>
+        <p>Our office in <b>San Francisco</b> has a new <b>pediatrician</b> starting <b>August</b>. Please ensure the roster is up to date.</p>
+        <p>Regards,<br>Practice Admin</p>
+        </body></html>
+--===============0996646846452049516==--

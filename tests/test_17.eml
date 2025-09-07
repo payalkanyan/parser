@@ -1,0 +1,28 @@
+Content-Type: multipart/alternative;
+ boundary="===============4105782251112543352=="
+MIME-Version: 1.0
+Subject: Test Email 17
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============4105782251112543352==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+VGVhbSwKClBsZWFzZSBub3RlIHRoYXQgRHIuIERhbmllbCBXaGl0ZSB3b27igJl0IGJlIHdpdGgg
+dXMgYWZ0ZXIgSnVseSB0aGlzIHllYXIuIEtpbmRseSBtYWtlIHRoZSBhZGp1c3RtZW50cyBpbiB0
+aGUgc3lzdGVtLgoKUmVnYXJkcywKT3BlcmF0aW9ucw==
+
+--===============4105782251112543352==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+CiAgICAgICAgPHA+VGVhbSw8L3A+CiAgICAgICAgPHA+UGxlYXNlIG5vdGUg
+dGhhdCA8Yj5Eci4gRGFuaWVsIFdoaXRlPC9iPiB3b27igJl0IGJlIHdpdGggdXMgYWZ0ZXIgPGI+
+SnVseSB0aGlzIHllYXI8L2I+LiBLaW5kbHkgbWFrZSB0aGUgYWRqdXN0bWVudHMgaW4gdGhlIHN5
+c3RlbS48L3A+CiAgICAgICAgPHA+UmVnYXJkcyw8YnI+T3BlcmF0aW9uczwvcD4KICAgICAgICA8
+L2JvZHk+PC9odG1sPg==
+
+--===============4105782251112543352==--

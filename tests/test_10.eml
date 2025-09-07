@@ -1,0 +1,25 @@
+Content-Type: multipart/alternative;
+ boundary="===============7412915577116138890=="
+MIME-Version: 1.0
+Subject: Test Email 10
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============7412915577116138890==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Good Morning,
+
+Please be advised that Dr. Maria Lopez is transitioning out of her current practice. Details to follow regarding next steps.
+
+Thanks,
+Coordination Desk
+--===============7412915577116138890==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Good Morning,</p><p>Please be advised that <b>Dr. Maria Lopez</b> is transitioning out of her current practice. Details to follow regarding next steps.</p><p>Thanks,<br>Coordination Desk</p></body></html>
+--===============7412915577116138890==--

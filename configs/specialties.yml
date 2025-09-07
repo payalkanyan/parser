@@ -1,0 +1,355 @@
+# Medical Specialties Configuration
+# Maps specialty variations to canonical names
+
+specialties:
+  "Internal Medicine":
+    synonyms:
+      - "internal medicine"
+      - "internal med"
+      - "im"
+      - "internist"
+      - "general internal medicine"
+      - "207r00000x"  # Common taxonomy code
+
+  "Family Medicine":
+    synonyms:
+      - "family medicine" 
+      - "family practice"
+      - "fp"
+      - "family med"
+      - "general practice"
+      - "primary care"
+      - "208d00000x"
+
+  "Emergency Medicine":
+    synonyms:
+      - "emergency medicine"
+      - "emergency"
+      - "emergency dept"
+      - "emergency room" 
+      - "emergency physician"
+      - "207p00000x"
+
+  "Pediatric Emergency Medicine":
+    synonyms:
+      - "pediatric emergency medicine"
+      - "pediatric emergency"
+      - "pediatric er"
+      - "peds emergency"
+      - "207pe0004x"
+
+  "Cardiology":
+    synonyms:
+      - "cardiology"
+      - "cardiac"
+      - "heart"
+      - "cardiovascular"
+      - "interventional cardiology"
+      - "207rc0000x"
+
+  "Dermatology":
+    synonyms:
+      - "dermatology"
+      - "derm"
+      - "skin"
+      - "dermatologist"
+      - "207n00000x"
+
+  "Neurology":
+    synonyms:
+      - "neurology"
+      - "neuro"
+      - "neurologist"
+      - "brain"
+      - "207r00000x"
+
+  "Orthopedic Surgery":
+    synonyms:
+      - "orthopedic surgery"
+      - "orthopedics"
+      - "ortho"
+      - "orthopedic"
+      - "bone surgery"
+      - "joint surgery"
+      - "207x00000x"
+
+  "General Surgery":
+    synonyms:
+      - "general surgery"
+      - "surgery"
+      - "surgeon"
+      - "general surgeon"
+      - "208600000x"
+
+  "Pediatric Emergency Medicine":
+    synonyms:
+      - "pediatric emergency medicine"
+      - "pediatric emergency"
+      - "pediatric er"
+      - "peds emergency"
+      - "208600000x"
+
+  "Anesthesiology":
+    synonyms:
+      - "anesthesiology"
+      - "anesthesia"
+      - "anesthesiologist"
+      - "207l00000x"
+
+  "Radiology":
+    synonyms:
+      - "radiology"
+      - "radiologist"
+      - "diagnostic radiology"
+      - "medical imaging"
+      - "2084n0400x"
+
+  "Pathology":
+    synonyms:
+      - "pathology"
+      - "pathologist"
+      - "anatomic pathology"
+      - "clinical pathology"
+      - "207zp0101x"
+
+  "Psychiatry":
+    synonyms:
+      - "psychiatry"
+      - "psychiatric"
+      - "psychiatrist"
+      - "mental health"
+      - "2084p0800x"
+
+  "Obstetrics":
+    synonyms:
+      - "obstetrics"
+      - "ob"
+      - "obgyn"
+      - "ob/gyn"
+      - "obstetrics and gynecology"
+      - "207v00000x"
+
+  "Gynecology":
+    synonyms:
+      - "gynecology"
+      - "gyn"
+      - "obgyn"
+      - "ob/gyn"
+      - "gynecologist"
+      - "207v00000x"
+
+  "Oncology":
+    synonyms:
+      - "oncology"
+      - "oncologist"
+      - "cancer"
+      - "hematology oncology"
+      - "medical oncology"
+      - "207rx0202x"
+
+  "Ophthalmology":
+    synonyms:
+      - "ophthalmology"
+      - "eye"
+      - "ophthalmologist"
+      - "vision"
+      - "207w00000x"
+
+  "Urology":
+    synonyms:
+      - "urology"
+      - "urologist"
+      - "urological"
+      - "208800000x"
+
+  "Gastroenterology":
+    synonyms:
+      - "gastroenterology"
+      - "gi"
+      - "gastro"
+      - "digestive"
+      - "gastrointestinal"
+      - "207rg0100x"
+
+  "Endocrinology":
+    synonyms:
+      - "endocrinology"
+      - "endo"
+      - "endocrinologist"
+      - "diabetes"
+      - "hormone"
+      - "207re0101x"
+
+  "Nephrology":
+    synonyms:
+      - "nephrology"
+      - "kidney"
+      - "nephrologist"
+      - "renal"
+      - "207rn0300x"
+
+  "Pulmonology":
+    synonyms:
+      - "pulmonology"
+      - "pulmonary"
+      - "lung"
+      - "respiratory"
+      - "207rp1001x"
+
+  "Pediatrics":
+    synonyms:
+      - "pediatrics"
+      - "pediatric"
+      - "peds"
+      - "children"
+      - "child"
+      - "pediatrician"
+      - "208000000x"
+
+  "Rheumatology":
+    synonyms:
+      - "rheumatology"
+      - "rheumatologist"
+      - "rheumatic"
+      - "arthritis"
+      - "autoimmune"
+      - "207rr0500x"
+
+  "Infectious Disease":
+    synonyms:
+      - "infectious disease"
+      - "infectious diseases"
+      - "id"
+      - "infection"
+      - "communicable disease"
+      - "207ri0200x"
+
+  "Hematology":
+    synonyms:
+      - "hematology"
+      - "hematologist"
+      - "blood"
+      - "heme"
+      - "207rh0000x"
+
+  "Allergy and Immunology":
+    synonyms:
+      - "allergy and immunology"
+      - "allergy"
+      - "immunology" 
+      - "allergist"
+      - "immunologist"
+      - "207ka0200x"
+
+  "Physical Medicine and Rehabilitation":
+    synonyms:
+      - "physical medicine and rehabilitation"
+      - "physical medicine"
+      - "rehabilitation"
+      - "pmr"
+      - "pm&r"
+      - "physiatry"
+      - "208100000x"
+
+  "Emergency Medicine - Pediatric":
+    synonyms:
+      - "pediatric emergency medicine"
+      - "pediatric emergency"
+      - "peds emergency"
+      - "children's emergency"
+      - "207pe0004x"
+
+  "Critical Care":
+    synonyms:
+      - "critical care"
+      - "intensive care"
+      - "icu"
+      - "critical care medicine"
+      - "207rc0001x"
+
+  "Sports Medicine":
+    synonyms:
+      - "sports medicine"
+      - "sports med"
+      - "athletic medicine"
+      - "orthopedic sports medicine"
+      - "208600000x"
+
+  "Pain Management":
+    synonyms:
+      - "pain management"
+      - "pain medicine"
+      - "chronic pain"
+      - "interventional pain"
+      - "207wp0200x"
+
+  "Plastic Surgery":
+    synonyms:
+      - "plastic surgery"
+      - "plastic surgeon"
+      - "reconstructive surgery"
+      - "cosmetic surgery"
+      - "208200000x"
+
+  "Otolaryngology":
+    synonyms:
+      - "otolaryngology"
+      - "ear nose throat"
+      - "head and neck surgery"
+      - "otolaryngologist"
+      - "ent specialist"
+      - "ent doctor"
+      - "207y00000x"
+
+  "Vascular Surgery":
+    synonyms:
+      - "vascular surgery"
+      - "vascular surgeon"
+      - "vessel surgery"
+      - "208g00000x"
+
+  "Cardiothoracic Surgery":
+    synonyms:
+      - "cardiothoracic surgery"
+      - "cardiac surgery"
+      - "heart surgery"
+      - "thoracic surgery"
+      - "208g00000x"
+
+  "Neurosurgery":
+    synonyms:
+      - "neurosurgery"
+      - "neurological surgery"
+      - "neurosurgeon"
+      - "brain surgery"
+      - "207t00000x"
+
+  "Occupational Medicine":
+    synonyms:
+      - "occupational medicine"
+      - "occupational health"
+      - "workplace medicine"
+      - "industrial medicine"
+      - "207q00000x"
+
+  "Preventive Medicine":
+    synonyms:
+      - "preventive medicine"
+      - "preventative medicine"
+      - "public health"
+      - "community medicine"
+      - "208d00000x"
+
+  "Nuclear Medicine":
+    synonyms:
+      - "nuclear medicine"
+      - "nuclear imaging"
+      - "radioisotope"
+      - "2084n0600x"
+
+  "Radiation Oncology":
+    synonyms:
+      - "radiation oncology"
+      - "radiation therapy"
+      - "therapeutic radiology"
+      - "2085r0202x"

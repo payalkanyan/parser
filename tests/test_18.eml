@@ -1,0 +1,28 @@
+Content-Type: multipart/alternative;
+ boundary="===============1669227487400331112=="
+MIME-Version: 1.0
+Subject: Test Email 18
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============1669227487400331112==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+SGksCgpXZeKAmXZlIGFkZGVkIGEgbmV3IGNhcmRpb2xvZ2lzdCBpbiBQaG9lbml4IOKAlCBEci4g
+TWFyaWEgTG9wZXouIFNoZSBzdGFydHMgbmV4dCBtb250aCB3aXRoIFZhbGxleUNhcmUuCgpUaGFu
+a3M=
+
+--===============1669227487400331112==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+CiAgICAgICAgPHA+SGksPC9wPgogICAgICAgIDxwPldl4oCZdmUgYWRkZWQg
+YSBuZXcgPGI+Y2FyZGlvbG9naXN0PC9iPiBpbiA8Yj5QaG9lbml4PC9iPiDigJQgPGI+RHIuIE1h
+cmlhIExvcGV6PC9iPi4gU2hlIHN0YXJ0cyA8Yj5uZXh0IG1vbnRoPC9iPiB3aXRoIDxiPlZhbGxl
+eUNhcmU8L2I+LjwvcD4KICAgICAgICA8cD5UaGFua3M8L3A+CiAgICAgICAgPC9ib2R5PjwvaHRt
+bD4=
+
+--===============1669227487400331112==--

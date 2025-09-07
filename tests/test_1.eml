@@ -1,0 +1,41 @@
+Content-Type: multipart/alternative;
+ boundary="===============8749972885288174138=="
+MIME-Version: 1.0
+Subject: Test Email 11
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============8749972885288174138==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Team,
+
+Please add the following provider effective 10/05/2025.
+
+Provider Details:
+Name: Dr. James Nolan
+NPI: 1567892345
+Specialty: Internal Medicine
+License: C89321
+TIN: 98-7654321
+Organization: Central Health Partners
+
+Regards,
+Network Ops
+--===============8749972885288174138==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+        <p>Dear Team,</p>
+        <p>Please add the following provider effective <b>10/05/2025</b>.</p>
+        <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+          <tr><th>Name</th><th>NPI</th><th>Specialty</th><th>License</th><th>TIN</th><th>Organization</th></tr>
+          <tr><td>Dr. James Nolan</td><td>1567892345</td><td>Internal Medicine</td><td>C89321</td><td>98-7654321</td><td>Central Health Partners</td></tr>
+        </table>
+        <p>Regards,<br>Network Ops</p>
+        </body></html>
+--===============8749972885288174138==--

@@ -1,0 +1,48 @@
+Content-Type: multipart/alternative;
+ boundary="===============5343263682430754078=="
+MIME-Version: 1.0
+Subject: Test Email 15
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============5343263682430754078==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Dear Partners,
+
+Attached below is information on a new provider:
+
+Provider Name: Dr. Kevin Brown
+NPI: 3344556677
+Specialty: Neurology
+License: L55672
+Organization: Horizon Health
+TIN: 665544332
+LOB: Medicare, Commercial
+Effective: 02/01/2026
+
+Thank you,
+Admin
+--===============5343263682430754078==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+        <p>Dear Partners,</p>
+        <p>Attached below is information on a new provider:</p>
+        <table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+          <tr><td><b>Provider Name</b></td><td>Dr. Kevin Brown</td></tr>
+          <tr><td><b>NPI</b></td><td>3344556677</td></tr>
+          <tr><td><b>Specialty</b></td><td>Neurology</td></tr>
+          <tr><td><b>License</b></td><td>L55672</td></tr>
+          <tr><td><b>Organization</b></td><td>Horizon Health</td></tr>
+          <tr><td><b>TIN</b></td><td>665544332</td></tr>
+          <tr><td><b>LOB</b></td><td>Medicare, Commercial</td></tr>
+          <tr><td><b>Effective</b></td><td>02/01/2026</td></tr>
+        </table>
+        <p>Thank you,<br>Admin</p>
+        </body></html>
+--===============5343263682430754078==--

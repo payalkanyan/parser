@@ -1,0 +1,25 @@
+Content-Type: multipart/alternative;
+ boundary="===============3098523641312231373=="
+MIME-Version: 1.0
+Subject: Test Email 9
+From: network.ops@example.com
+To: recipient@example.com
+
+--===============3098523641312231373==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi Team,
+
+Effective November 2025, Dr. Rajesh Kumar will no longer be associated with our practice group. Kindly process the termination in the system.
+
+Regards,
+Practice Admin
+--===============3098523641312231373==
+Content-Type: text/html; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+<html><body><p>Hi Team,</p><p>Effective <b>November 2025</b>, <b>Dr. Rajesh Kumar</b> will no longer be associated with our practice group. Kindly process the termination in the system.</p><p>Regards,<br>Practice Admin</p></body></html>
+--===============3098523641312231373==--

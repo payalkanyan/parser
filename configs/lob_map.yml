@@ -1,0 +1,51 @@
+# Line of Business Mapping Configuration
+# Maps various LOB terms to canonical values
+
+medicare:
+  canonical: "Medicare"
+  synonyms:
+    - "medicare"
+    - "cms"
+    - "part a"
+    - "part b" 
+    - "part c"
+    - "part d"
+    - "medicare advantage"
+    - "medicare supplement"
+    - "medigap"
+    - "original medicare"
+
+medicaid:
+  canonical: "Medicaid"
+  synonyms:
+    - "medicaid"
+    - "medi-cal"
+    - "state insurance"
+    - "state medicaid"
+    - "medicaid managed care"
+    - "state plan"
+
+commercial:
+  canonical: "Commercial"
+  synonyms:
+    - "commercial"
+    - "private"
+    - "private insurance"
+    - "employer"
+    - "group insurance"
+    - "individual"
+    - "hmo"
+    - "ppo" 
+    - "epo"
+    - "pos"
+    - "exchange"
+    - "marketplace"
+    - "aca"
+    - "affordable care act"
+    - "health maintenance organization"
+    - "preferred provider organization"
+    - "preferred provider"
+    - "exclusive provider organization"
+    - "point of service"
+    - "health insurance marketplace"
+    - "managed care"
