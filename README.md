@@ -1,6 +1,7 @@
 # HiLabs Roster Parser
 
-**Repository**: https://github.com/payalkanyan/parser
+**Repository**: https://github.com/payalkanyan/parser. 
+
 The HiLabs Roster Parser is a healthcare provider information extraction system designed to process email files (.eml) and generate structured Excel output for roster management. Built with a **hybrid deterministic + ML approach**, it combines pattern-based extraction with **Named Entity Recognition (NER)** to achieve high accuracy in healthcare data processing.
 
 ⚠️ Note: This project does not rely on large language models (LLMs). In healthcare, processes must be transparent and reproducible, but LLM outputs are often difficult to explain or validate. Our approach uses a combination of deterministic rules and lightweight ML, which runs efficiently on local machines, delivers consistent and reliable results, and can be readily extended to production use cases in regulated environments.
@@ -193,7 +194,7 @@ The TAT analysis includes:
 - **Typical TAT**: 0.7-1.2 seconds  
 - **Success Rate**: 88-92%
 
-#### Slow Processing (1.5-5 seconds)
+#### Slow Processing (1.5-5 seconds) ( Future Advancements)
 - **Characteristics**:
   - PDF attachments requiring text extraction
   - Complex HTML tables with nested structures  
@@ -220,12 +221,12 @@ The TAT analysis includes:
 The system provides comprehensive accuracy analysis capabilities:
 
 
-### Accuracy Benchmarks
+### Accuracy Benchmarks ( Expected on Tests We Did )
 
 Based on analysis of the test dataset:
 
 #### High-Precision Fields (Target: >90%)
-- **Provider NPI**: 94.2% (Luhn validation + pattern matching)
+- **Provider NPI**: 94.2% ( Validation + pattern matching)
 - **TIN**: 91.8% (9-digit validation + context)
 - **Phone Number**: 89.7% (NANP format recognition)
 - **Transaction Type**: 96.1% (Context analysis + lexicon)
